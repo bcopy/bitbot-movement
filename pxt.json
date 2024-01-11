@@ -1,5 +1,5 @@
 {
-    "name": "Bitbot-Movement",
+    "name": "Bitbot Remote",
     "version": "1.0.0",
     "description": "",
     "dependencies": {
@@ -18,7 +18,7 @@
         "test.ts"
     ],
     "targetVersions": {
-        "target": "5.0.12",
+        "target": "6.0.25",
         "targetId": "microbit"
     },
     "supportedTargets": [
